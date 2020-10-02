@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">jito</string>
+    <string name="hint_titulo_novo_jito">Título do novo JITO</string>
+    <string name="hint_descricao_novo_jito">Descreva seu JITO (opcional)</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="nenhum_jito">Cadastre seu primeiro JITO!</string>
+</resources>
